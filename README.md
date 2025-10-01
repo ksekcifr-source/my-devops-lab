@@ -1,4 +1,12 @@
-# my-devops-lab
+# 🚀 DevOps Lab: SDLC + CI/CD + GitHub Actions
+
+## Objective
+Learn how to use **GitHub Actions** to automate testing and deployment for a simple Python web app.
+
+---
+
+## 📂 Project Structure
+```
 my-devops-lab/
  ┣ app/
  ┃ ┣ app.py        # Simple Flask app
@@ -25,6 +33,4 @@ my-devops-lab/
 - Run a CI/CD pipeline in **GitHub Actions**.  
 - Experience DevOps principles: automation, feedback, collaboration.  
 
-Good luck 🎯  
-
-my-devops-lab
+Good luck 🎯
